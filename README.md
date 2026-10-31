@@ -88,7 +88,7 @@ Everything is formula-driven (`SUMIFS`, `COUNTIFS`, `AVERAGEIFS`, `INDEX/MATCH`,
 - "High sales, low profit" means sales above the median of the group and margin below the overall margin.
 - Currency is not stated in the source; Rs. is assumed because all locations are in Tamil Nadu.
 
-**BlinkIT / Supermarket**
+**Supermarket**
 - `Item Fat Content` had five spellings (Low Fat, low fat, LF, Regular, reg); they are standardised to Low Fat / Regular.
 - 526 records have zero Item Visibility, which is likely missing data. They are kept in totals and shown as a separate band; the correlation is also reported without them.
 - `Item Weight` has 1,463 blanks; it is not used in any analysis.
